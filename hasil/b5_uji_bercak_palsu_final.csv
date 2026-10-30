@@ -1,0 +1,6 @@
+kondisi,std_sebelum,std_sesudah,titik_sebelum,titik_sesudah,rasio_std
+bayangan,12.43,8.06,0.25,0.25,0.65
+gelap,8.45,3.74,0.0,0.0,0.44
+kontras_rendah,10.44,4.81,0.0,0.0,0.46
+normal,9.28,6.03,3.0,7.25,0.65
+terang,11.94,7.79,7.25,3.0,0.65
