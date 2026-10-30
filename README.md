@@ -68,6 +68,4 @@ sehingga diganti dengan parameter final di atas.
 ## Versi
 Tag: `v0.1-praproses`. Versi pustaka: lihat `requirements.txt`.
 
-## Catatan penggunaan AI
-Alat AI generatif dipakai untuk memahami konsep, memeriksa kode, dan menyusun
-draf analisis. Rinciannya ada di bagian Refleksi laporan.
+
