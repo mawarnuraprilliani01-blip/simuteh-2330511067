@@ -1,0 +1,4 @@
+data/sintetis/*
+!data/sintetis/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
