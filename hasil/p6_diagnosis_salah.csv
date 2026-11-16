@@ -1,0 +1,11 @@
+nama,kondisi,acuan,prediksi,IoU_daun,%_acuan,%_awal,%_bersih,%_saring,n_acuan,n_awal,n_bersih,n_saring,IoU_bercak
+teh_012.png,gelap,Sehat,Bercak Ringan,0.998,0.0,3.408,0.984,0.101,0,150,14,2,0.0
+teh_021.png,normal,Bercak Ringan,Sehat,0.999,0.113,4.102,2.669,0.065,1,167,4,1,0.58
+teh_023.png,terang,Bercak Ringan,Sehat,0.969,0.232,1.964,0.082,0.082,2,771,2,2,0.352
+teh_024.png,kontras_rendah,Bercak Ringan,Sehat,0.987,0.228,1.326,0.04,0.04,2,277,1,1,0.175
+teh_027.png,gelap,Bercak Ringan,Sehat,0.999,0.124,1.496,0.049,0.049,1,224,1,1,0.395
+teh_033.png,terang,Bercak Ringan,Sehat,0.996,0.099,0.578,0.048,0.048,1,65,1,1,0.361
+teh_036.png,normal,Bercak Ringan,Sehat,0.995,0.153,2.635,1.652,0.087,1,205,4,1,0.566
+teh_037.png,gelap,Bercak Ringan,Sehat,0.999,0.143,0.951,0.086,0.086,1,239,1,1,0.602
+teh_049.png,kontras_rendah,Bercak Berat,Sehat,0.403,2.734,0.0,0.0,0.0,7,0,0,0,0.0
+teh_056.png,normal,Bercak Berat,Bercak Ringan,0.995,2.442,3.174,2.02,1.969,6,112,10,8,0.692
